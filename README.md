@@ -1,5 +1,5 @@
 # go-top
-Top processes listing for Golang
+Top processes listing (and other CLI tools) for Golang
 
 ## Build/compile process using Docker
 
